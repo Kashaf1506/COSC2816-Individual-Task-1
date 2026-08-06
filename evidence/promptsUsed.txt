@@ -3,8 +3,7 @@ GENERATIVE AI PROMPTS
 Note: These prompts have been corrected for spelling and shortened for readability without 
 changing the nature of the assistance requested.
 
-I created the folder structure and files for Part 1.3. Please check whether anything 
-required is missing.
+Can you generate a sample structure for the folder and files for Part 1.3.
 
 I examined both datasets and decided to analyse them separately for student-risk prediction. 
 Please review whether this decision is methodologically reasonable.
