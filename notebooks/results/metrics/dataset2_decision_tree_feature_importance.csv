@@ -1,0 +1,65 @@
+feature,importance
+missing_assessments_60,0.39997028665251966
+average_assessment_score_60,0.27223925970187773
+weighted_assessment_score_60,0.09174124869887984
+active_learning_days_60,0.06151944998125307
+vle_interaction_rows_60,0.03079253801025029
+code_module_AAA,0.02902942012394624
+code_module_CCC,0.02037363580502421
+code_module_BBB,0.01339494324412688
+highest_education_Lower Than A Level,0.012940921461327743
+banked_assessments_60,0.0101292498944192
+num_of_prev_attempts,0.007786181436303104
+date_registration,0.007773339141345407
+unique_resources_60,0.006747684565084316
+late_or_missing_assessments_60,0.006654852533533361
+total_vle_clicks_60,0.005335505991645236
+imd_band_0-10%,0.004242577727836602
+assessments_submitted_60,0.003086031152635335
+code_module_GGG,0.0027671370512252574
+has_assessment_score_60,0.0023419151603232156
+disability_N,0.0019762913771376235
+highest_education_A Level or Equivalent,0.0014458254144681906
+code_presentation_2013B,0.0012653490431307323
+gender_M,0.001257658883741681
+code_module_FFF,0.0011650494846989433
+code_presentation_2013J,0.000736510992633199
+age_band_0-35,0.0005865321256071045
+studied_credits,0.0005763448977862583
+code_presentation_2014J,0.0005730512491570579
+age_band_35-55,0.00046425833094111685
+imd_band_50-60%,0.0004492292727667331
+region_West Midlands Region,0.0004353875401664828
+gender_F,0.00015032313148114214
+imd_band_10-20,5.200992272726834e-05
+highest_education_No Formal quals,0.0
+highest_education_Post Graduate Qualification,0.0
+highest_education_HE Qualification,0.0
+region_South East Region,0.0
+region_South Region,0.0
+region_South West Region,0.0
+region_Wales,0.0
+region_Scotland,0.0
+region_North Western Region,0.0
+region_North Region,0.0
+region_London Region,0.0
+code_presentation_2014B,0.0
+region_East Anglian Region,0.0
+region_East Midlands Region,0.0
+region_Ireland,0.0
+code_module_DDD,0.0
+code_module_EEE,0.0
+region_Yorkshire Region,0.0
+disability_Y,0.0
+imd_band_40-50%,0.0
+imd_band_60-70%,0.0
+imd_band_70-80%,0.0
+imd_band_80-90%,0.0
+imd_band_30-40%,0.0
+age_band_55<=,0.0
+imd_band_90-100%,0.0
+imd_band_20-30%,0.0
+assessments_due_60,0.0
+registration_date_missing,0.0
+late_submissions_60,0.0
+has_vle_activity_60,0.0
