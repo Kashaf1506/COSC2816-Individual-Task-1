@@ -1,0 +1,3 @@
+dataset,model,accuracy,balanced_accuracy,macro_f1,focus_class,focus_precision,focus_recall,focus_f1
+Dataset 1,Random Forest,0.6994,0.6669,0.6582,Dropout,0.7683,0.6655,0.7132
+Dataset 2,Random Forest,0.7484,0.7355,0.7379,At Risk,0.7149,0.6582,0.6853
