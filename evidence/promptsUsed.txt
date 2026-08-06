@@ -1,0 +1,29 @@
+GENERATIVE AI PROMPTS
+
+Note: These prompts have been corrected for spelling and shortened for readability without 
+changing the nature of the assistance requested.
+
+I created the folder structure and files for Part 1.3. Please check whether anything 
+required is missing.
+
+I examined both datasets and decided to analyse them separately for student-risk prediction. 
+Please review whether this decision is methodologically reasonable.
+
+I constructed the OULAD predictors using student activity available up to day 60. 
+Please check my selected variables for possible information recorded after the cutoff.
+
+I excluded the second-semester variables from Dataset 1. 
+Please check whether any remaining columns could introduce future-information leakage.
+
+I want to implement stratified five-fold cross-validation for the Decision Tree and Random Forest models.
+Please help me with the code.
+
+The cross-validation code produced a Windows paging-file memory error. 
+Please explain the error and review my proposed changes to reduce memory use.
+
+I compared the cross-validation results and concluded that Random Forest 
+performed better on both datasets. Please check whether the reported metrics support my interpretation.
+
+I evaluated the selected models on the untouched test sets using accuracy, balanced accuracy, 
+macro F1-score, per-class measures and confusion matrices. 
+Please check my interpretation of the results.
